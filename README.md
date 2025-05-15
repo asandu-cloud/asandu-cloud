@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Andrei!
+
+I am a Data Science MSc student currently based in Rome with a BSc in Economics and Business from the Erasmus University of Rotterdam. 
+
+## Tools and Techniques
+`Python` - `Pandas` - `scikit-learn`
+
+## Let's connect 
+  - Email: asandu.pers@gmail.com
+  - Pinned repositories show some of my current work, whether personal or in a professional context. 
+
 
 <!--
 **asandu-cloud/asandu-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
