@@ -3,11 +3,12 @@
 I am a Data Science & Management MSc student currently based in Rome with a BSc in Economics and Business from the Erasmus University of Rotterdam. 
 
 ## Tools and Techniques
-`Python` - `Pandas` - `scikit-learn`
+`Python` - `Pandas` - `scikit-learn` - `Pytorch` - `Tensorflow` - `Tableau` - `PowerBI` - `R`
 
 ## Let's connect 
   - Email: asandu.pers@gmail.com
-  - Pinned repositories show some of my current work, whether personal or in a professional context. 
+  - Pinned repositories show some of my current work, whether personal or in a professional context.
+
 
 
 <!--
