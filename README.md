@@ -7,7 +7,7 @@ I am a Data Science & Management MSc student currently based in Rome with a BSc 
 
 ## Let's connect 
   - Email: asandu.pers@gmail.com
-  - Most of my projects are private. 
+  - Most of my projects are set to private. 
 
 
 
