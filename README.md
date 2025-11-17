@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Andrei!
 
 I am a Data Science & Management MSc student currently based in Rome with a BSc in Economics and Business from the Erasmus University of Rotterdam. 
-My projects are set to private. 
+My projects are set to private. Public projects are mostly unfinished work. 
 
 ## Tools and Techniques
 `Python` - `Pandas` - `scikit-learn` - `Pytorch` - `Tensorflow` - `Tableau` - `PowerBI` - `R`
