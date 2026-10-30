@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Andrei!
 
+Web Design, LLMs, Sports, Statistics and DB
 
 ## Tools and Techniques
 `Python` - `Pandas` - `scikit-learn` - `Pytorch` - `Tensorflow` - `Tableau` - `PowerBI` - `R`
